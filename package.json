@@ -1,5 +1,8 @@
 {
-  "name": "react-component-library",
+  "name": "@alvaro-andrade-zaelot/react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alvaro-andrade-zaelot"
+  },
   "version": "0.0.1",
   "description": "React component library",
   "scripts": {
